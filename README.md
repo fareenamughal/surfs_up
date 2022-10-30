@@ -15,8 +15,9 @@ The temprature of Oahu is compared for 2 months, June and December. The main sta
 1. Minimum temperature - December has a lower min.temp of 56 degrees ferenheight compared to June's min temps of 64 degrees ferenheight 
 2. Maximum temperature -  - December has a slightly lower max.temp of 83 degrees ferenheight compared to June's max temps of 85 degrees ferenheight 
 3. Mean - June's average temperature is higher at 74.94 degrees ferenheight compared to December's average of 71.04 degrees ferenheight
-4. Standard deviation - June's standard deviation is 3.25 compared to Decembers 3.74. This implies the difference is between the average and highest and lowest temperatures is more for the month of December compared to that of June.
-5. Interquartile range - for the month of June is 6 degrees ferenheight as compared to December at 7.5 degrees ferenheight.
+4. Standard deviation - June's standard deviation is 3.25 compared to Decembers 3.74. This implies the difference between the average and highest and lowest temperatures (range) is more for the month of December compared to that of June.
+5. Interquartile range (difference between 3rd quartile and 1st quartile) - for the month of June is 6 degrees ferenheight as compared to December at 7.5 degrees ferenheight. This also implies there are relative more high and low temperatures from the average in December that June.
+6. General summary - the temperature data for both June and December indicates that the data may be skewed as both the minimum and maximum temperatures lie outside the values as calculated using the Standard deviation and Interquartile Range. Further investigation would need to be done to determine whether the data collected was accurate. It is also possible that in reality on some days the temperatures may actually vary much more from the average temperature. One would need to determine the number of such occurances as this can have an impact on daily sales with no sales on colder or days and higher sales on hotter days.  
 
 
 ### Summary of the statistics for the month of June and December
