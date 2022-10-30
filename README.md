@@ -23,62 +23,16 @@ The temprature of Oahu is compared for 2 months, June and December. The main sta
 
 ![SurfsUP](https://github.com/fareenamughal/surfs_up/blob/8c837e723f72f5d45aee8590ba0627224b03709d/June%20&%20Dec%20Temprature%20Stats.png)
 
-
-### Additional queries to be run
-1. The temperature data for both June and December indicates that the data may be skewed as both the minimum and maximum temperatures lie outside the values as calculated using the Standard deviation and Interquartile Range. Further investigation would need to be done to determine whether the data collected was accurate. It is also possible that in reality, on some days the temperatures may actually vary much more from the average temperature. One would need to determine the number of such occurances as this can have an impact on daily sales with no sales on colder days and higher sales on hotter days.  
-2. Another query to be run would be to determine which month has more rainfall or receives more precipitation. As is seen from the additional summary statiticts run in the SurfsUp Challenge file, the month of December receives more rainfall than June 0.216mm compared to 0.136mm respectively. The highest percipitation value for December is also 6.4mm compared to 4.43mm for June. This signifies that December sales may be impacted by the number of rainy days and June may be a better month. It would also be a good idea to recheck the data as the percipitation counts for bot Dec and June are different, lower from the temperature counts for June and December. Perhaps some missing data or null values in the data.
-3. Also it would be a good idea to consider checing the overall rainfall pattern to identify whether sales would be of a cyclic nature and also to determine the overall impact on sales for the entire year. 
-4. Another query to be run would be to check the information for other stations and see their viability in terms of fairly standard temperatureas and rainfall patterns so as to calculate the annual revenue potential before setting up shop in an area.
-
 ___
 
 ### Summary
 ___
 
+In general, the temperature data for both June and December indicates that the data may be skewed as both the minimum and maximum temperatures lie outside the values as calculated using the Standard deviation and Interquartile Range. Further investigation would need to be done to determine whether the data collected was accurate. It is also possible that in reality, on some days the temperatures may actually vary much more from the average temperature. One would need to determine the number of such occurances as this can have an impact on daily sales with no sales on colder days and higher sales on hotter days. One would also need to look at the full years data before making an investment decision. If temperature and rainfall variances still enable sales projections to breakeven and surpass the breakeven point it would be worth investing and exploring other services that could be offered on days when temperatureas are low and or receive more rainfall.  
 
+### Additional queries to be run
 
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
-
-
-
-
-
-Week 9 SQLite database &amp; SQLAlchemy
-
-Deliverable 3 Requirements
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-Overview of the statistical analysis:
-
-The purpose of the analysis is well defined. (3 pt)
-Results:
-
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
-Summary:
-
-There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
-Submission
-Once you’re ready to submit, make sure to check your work against the rubric to ensure you are meeting the requirements for this Challenge one final time. It’s easy to overlook items when you’re in the zone!
-
-As a reminder, the deliverables for this Challenge are as follows:
-
-Deliverable 1: Determine the Summary Statistics for June
-Deliverable 2: Determine the Summary Statistics for December
-Deliverable 3: A written report for the statistical analysis (README.md)
-Upload the following to your surfs_up GitHub repository:
-
-The SurfsUp_Challenge.ipynb file.
-The hawaii.sqlite file.
-An updated README.md that has your written analysis
-To submit your challenge assignment for grading in Bootcamp Spot, click Start Assignment, click the Website URL tab, then provide the URL of your surfs_up GitHub repository, and then click Submit. Comments are disabled for graded submissions in BootCampSpot. If you have questions about your feedback, please notify your instructional staff or the Student Success Manager. If you would like to resubmit your work for an improved grade, you can use the Re-Submit Assignment button to upload new links. You may resubmit up to 3 times for a total of 4 submissions.
-
-
-
+1. Another query to be run would be to determine which month has more rainfall or receives more precipitation. As is seen from the additional summary statiticts run in the SurfsUp Challenge file, the month of December receives more rainfall than June 0.216mm compared to 0.136mm respectively. The highest percipitation value for December is also 6.4mm compared to 4.43mm for June. This signifies that December sales may be impacted by the number of rainy days and June may be a better month. It would also be a good idea to recheck the data as the percipitation counts for bot Dec and June are different, lower from the temperature counts for June and December. Perhaps some missing data or null values in the data.
+2. Also it would be a good idea to consider checing the overall rainfall pattern to identify whether sales would be of a cyclic nature and also to determine the overall impact on sales for the entire year. 
+3. Another query to be run would be to check the information for other stations and see their viability in terms of fairly standard temperatureas and rainfall patterns so as to calculate the annual revenue potential before setting up shop in an area.
+4. Altitude information can also be checked as higher altitudes will be relatively colder than the lower altitudes.
