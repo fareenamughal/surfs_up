@@ -10,7 +10,16 @@ ___
 ### Results
 ___
 
-The temprature of Oahu is compared for 2 months, June and December. The main statistical data indicates the following"
+The temprature of Oahu is compared for 2 months, June and December. The main statistical data can be discussed by comparing the following and also summarized in the diagram below: 
+
+1. Minimum temperature - December has a lower min.temp of 56 degrees ferenheight compared to June's min temps of 64 degrees ferenheight 
+2. Maximum temperature -  - December has a slightly lower max.temp of 83 degrees ferenheight compared to June's max temps of 85 degrees ferenheight 
+3. Mean - June's average temperature is higher at 74.94 degrees ferenheight compared to December's average of 71.04 degrees ferenheight
+4. Standard deviation - June's standard deviation is 3.25 compared to Decembers 3.74. This implies the difference is between the average and highest and lowest temperatures is more for the month of December compared to that of June.
+5. Interquartile range - for the month of June is 6 degrees ferenheight as compared to December at 7.5 degrees ferenheight.
+
+
+Interquartile range
 ![SurfsUP](https://github.com/fareenamughal/surfs_up/blob/8c837e723f72f5d45aee8590ba0627224b03709d/June%20&%20Dec%20Temprature%20Stats.png)
 
 
