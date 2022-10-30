@@ -19,7 +19,7 @@ The temprature of Oahu is compared for 2 months, June and December. The main sta
 5. Interquartile range - for the month of June is 6 degrees ferenheight as compared to December at 7.5 degrees ferenheight.
 
 
-#### Summary of the statistics for the month of June and December
+### Summary of the statistics for the month of June and December
 
 ![SurfsUP](https://github.com/fareenamughal/surfs_up/blob/8c837e723f72f5d45aee8590ba0627224b03709d/June%20&%20Dec%20Temprature%20Stats.png)
 
