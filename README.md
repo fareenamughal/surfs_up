@@ -36,3 +36,5 @@ In general, the temperature data for both June and December indicates that the d
 2. Also it would be a good idea to consider checing the overall rainfall pattern to identify whether sales would be of a cyclic nature and also to determine the overall impact on sales for the entire year. 
 3. Another query to be run would be to check the information for other stations and see their viability in terms of fairly standard temperatureas and rainfall patterns so as to calculate the annual revenue potential before setting up shop in an area.
 4. Altitude information can also be checked as higher altitudes will be relatively colder than the lower altitudes.
+
+### https://github.com/fareenamughal/surfs_up/blob/2fba1510a13b0a75d3591fe0fb46bb500a9f77cc/SurfsUp_Challenge.ipynb
