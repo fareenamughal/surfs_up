@@ -37,5 +37,5 @@ In general, the temperature data for both June and December indicates that the d
 3. Another query to be run would be to check the information for other stations and see their viability in terms of fairly standard temperatureas and rainfall patterns so as to calculate the annual revenue potential before setting up shop in an area.
 4. Altitude information can also be checked as higher altitudes will be relatively colder than the lower altitudes.
 
-#### Link to the SUrfsUp Challenge code
+### Link to the SUrfsUp Challenge code
 https://github.com/fareenamughal/surfs_up/blob/2fba1510a13b0a75d3591fe0fb46bb500a9f77cc/SurfsUp_Challenge.ipynb
