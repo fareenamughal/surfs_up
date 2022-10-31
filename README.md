@@ -38,4 +38,4 @@ In general, the temperature data for both June and December indicates that the d
 4. Altitude information can also be checked as higher altitudes will be relatively colder than the lower altitudes.
 
 ### Link to the SUrfsUp Challenge code
-https://github.com/fareenamughal/surfs_up/blob/2fba1510a13b0a75d3591fe0fb46bb500a9f77cc/SurfsUp_Challenge.ipynb
+https://github.com/fareenamughal/surfs_up/blob/270d4c43681666a837ef6316a8305502f15c5c35/SurfsUp_Challenge.ipynb
